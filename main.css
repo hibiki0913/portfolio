@@ -1,3 +1,9 @@
+div {
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 5px;
+}
+
 p{
     font-family: "ＭＳ Ｐ明朝","ＭＳ 明朝",serif;
     color:black;
